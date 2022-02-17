@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string-array name="cur_test">
+        <item>USD</item>
+        <item>AED</item>
+        <item>AMD</item>
+    </string-array>
+</resources>
